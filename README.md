@@ -63,7 +63,7 @@ Open the local URL displayed in your terminal to view the application.
 - Admin dashboard and reporting
 
 ## 👩‍💻 Author
-Sri Nandini
+Sri Madhuri
 
 ## 📄 License
 This project is developed for educational and project purposes.
